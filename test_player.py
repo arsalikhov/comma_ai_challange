@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from video_processing import VideoPlayback
 
 p = VideoPlayback()
